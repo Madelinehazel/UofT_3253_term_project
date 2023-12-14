@@ -10,7 +10,7 @@
 - Madeline Couse
 - Marinus de Beer
 - Mihir Garikiparithi
-- Amir 
+- Amir Landage
 
 ## Setup
 conda create env -n ml_env python=3.8
