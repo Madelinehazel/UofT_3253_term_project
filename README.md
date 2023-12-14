@@ -7,7 +7,5 @@
 
 # Setup
 conda create env -n ml_env python=3.8
-
 pip install -r requirements.txt
-
 change DIRECTORY value to where your 2015.csv dataset lives
